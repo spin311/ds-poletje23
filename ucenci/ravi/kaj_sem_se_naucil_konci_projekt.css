@@ -1,0 +1,24 @@
+li a {
+	text-decoration: none;
+	text-align: center;
+	color: black;
+	float: left;
+	border: 1px none;
+	padding: 5px 10px;
+	background-color: #33FF84;
+	font-size: 100%;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+li a:hover{
+	background-color:#60C3FF ;
+}
+ul{
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	list-style-type: none;
+}
+body {
+	background-image: https://m.media-amazon.com/images/I/81hBGor6x4L.jpg;
+}
