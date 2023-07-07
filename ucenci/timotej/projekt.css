@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Raleway:wght@300;500&display=swap');
+#prva {
+	color: red;
+}
+
+#easlika {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+body {
+	background-image: url(./slike/ffi.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.font {
+font-family: 'Oswald', sans-serif;
+color: brown;
+color: #db03fc;
+
+
+
+}
+.a a {
+	text-decoration: none;
+	display: block;
+	float: left;
+	color: black;
+	border: 1px solid;
+	padding: 5px 10px;
+	background-color: #b3b3ff;
+}
+.a a:hover {
+	background-color: red;
+}
+ul {
+	list-style-type:none;
+	margin: 0;
+	padding:0;
+	overflow: hidden;
+	background-color: #43faf1;
+}

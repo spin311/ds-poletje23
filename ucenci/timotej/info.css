@@ -1,0 +1,29 @@
+li a {
+	text-decoration: none;
+	list-style-type: none;
+	color: black;
+}
+body {
+	background-image: url("./slike/Fifa-23.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.a a {
+	text-decoration: none;
+	display: block;
+	float: left;
+	color: black;
+	border: 1px solid;
+	padding: 5px 10px;
+	background-color: #b3b3ff;
+}
+.a a:hover {
+	background-color: red;
+}
+ul {
+	list-style-type:none;
+	margin: 0;
+	padding:0;
+	overflow: hidden;
+	background-color: #43faf1;
+}
