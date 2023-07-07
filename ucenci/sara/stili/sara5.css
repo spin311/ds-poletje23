@@ -1,0 +1,47 @@
+h1 {
+	text-align: center;
+}
+span {
+	text-align: center;
+	background-color: lightpink;
+	border: 1px solid;
+
+}
+
+p {
+	text-align: center;
+}
+#pupa {
+	text-align: 20px left;
+}
+.hg{
+text-align: left;
+
+}
+.hf{
+	
+	text-align: left;
+
+}
+
+
+.sp{
+	width: 350px;
+	float:left;
+	background-color: white;
+	border: none;
+}
+h3 {
+	color:hotpink;
+	text-size-adjust: 200%;
+
+
+
+
+
+}
+body {
+	background-image: url("");
+	background-size: cover;
+
+}

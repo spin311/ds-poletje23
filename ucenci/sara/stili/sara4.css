@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #ff99ff;
+}
+
+li a {
+	text-decoration: none;
+	display: block;
+	color: black;
+	float: left;
+	border: 1px solid;
+	padding: 7px 10px;
+}
+li a:hover {
+	background-color: #ffe6ff;
+}
+body {
+	background-image: url("https://www.northern-times.co.uk/_media/img/1XCNT8UC8MI5HM88H9R2.jpg") ;
+	background-size: cover;
+
+
+}
+span {
+
+	font-family: 'Caprasimo', cursive;
+
+
+}
+H1 {
+	text-align: right;
+	color: white;
+	font-size: 290%;
+	text-shadow: 1px 1px black;
+}
+h4 {
+	text-align: right;
+	font-family: 'Caprasimo', cursive;
+color: white;
+top: 2px;
+font-size: 135%;
+text-shadow: 1px 1px black;
+}
