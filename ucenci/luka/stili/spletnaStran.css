@@ -1,0 +1,38 @@
+span{display: inline-block;;padding: 10px 20px;
+border:1px solid;}
+
+
+
+
+
+
+
+
+#uvod{text-align:center;
+	background-color: red;
+    font-size:300%;
+    border:double;
+    padding: 10px 20px;
+    display: inline-block;
+   border-width: 50px;
+
+
+
+
+
+}
+
+
+
+
+
+#jedro
+{text-align: center;
+    color: cyan;
+font-size:200%; }
+
+
+#zakjlucek
+{text-align: center;
+color:cyan;
+font-size:200%;}
