@@ -1,0 +1,46 @@
+span {
+	font-family: inherit;
+	font-size: 200px;
+	text-align: center;
+	border: 3px solid;
+	border-collapse: collapse;
+	background-color:  #C4A484;
+
+}
+h2, h3, h4, h5 {
+	text-align: center;
+	border: 3px solid;
+	color: gray;
+	list-style-type: inline;
+	padding: 20px;
+	font-weight: 600;
+}
+p {
+	border: 1px double;
+	text-align: center;
+	padding: 10px 10px;
+	list-style-type: inline;
+}
+body {
+	background-color: beige;
+}
+td a:hover {
+	color: red;
+	opacity: 100%;
+	transition: width 300px;
+}
+td a {
+	text-decoration: none;
+	border: 3px solid;
+	border-color: #C4A484;
+	padding: 10px 10px;
+	margin-top: 15px;
+	opacity: 60%;
+}
+tr {
+	float: left;
+	list-style-type: none;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
