@@ -1,0 +1,25 @@
+h1 {
+	color: rgb(255,0,0);
+	border:  300px dotted ;
+}
+img{}
+h1{border-image: url("https://m.media-amazon.com/images/I/81hBGor6x4L.jpg");}
+
+ul {
+	list-style: none
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+li {
+	border:30px line;
+	color: teal
+}
+	
+
+
+
+
+
+
+
