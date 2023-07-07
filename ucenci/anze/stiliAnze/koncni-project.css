@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Freehand&display=swap');
+ul {
+	list-style-type: none;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;	
+}
+
+li a 
+{
+	text-decoration:none;
+	text-align: center;
+	color: black;
+	float: left;
+	border: 1px none;
+	padding:5px 10px;
+	background-color:#3399ff;
+	font-size: 300%;
+	font-family: 'Quicksand', sans-serif;
+	padding-left: 70px;
+	padding-right: 50px;
+}
+
+li a:hover{
+	background-color:#ff3300;
+}
+
+.spider-man{
+
+	font-size: 200%;
+}
+
+span{
+
+	border: 2px double;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+span{
+
+	border: 2px double;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+img{
+
+	width: 100%;
+}
+.ozadje{
+
+	background-image:url("../slikeanžehtml/ma.jpg") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#sPic{
+
+	width: 25%;
+}
+
+#iPic{
+
+	width: 25%;
+}
+
+.iron_man{
+
+	font-size: 200%;
+}
+
+.cap-A{
+
+	font-size: 200%;
+}
+
+#aPic{
+
+	width: 25%;
+}

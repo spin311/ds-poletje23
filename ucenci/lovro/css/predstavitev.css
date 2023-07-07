@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+h1{
+	padding: 20px 10px;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+
+}
+body{
+	background-image: url("../slikice/catback.png");
+	background-color: black;
+}
+span{
+	border: 1px dotted ;
+	padding: 20px 10px;
+
+	background-color: forestgreen;
+}
+hr {
+	font-weight: 1000;
+}
+div {
+	background-color: rgba(100, 203, 75, 0.5);
+}
