@@ -1,0 +1,15 @@
+span {
+
+	border: 10px dotted;
+	margin-left: center;
+	margin-right: center;
+	padding: 10px 20px;
+}
+p {
+	margin-right: center;
+	margin-left: center;
+	background-color: aliceblue;
+	border: dotted; 10px 20px
+
+}
+

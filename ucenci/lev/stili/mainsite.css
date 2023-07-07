@@ -1,0 +1,56 @@
+
+
+
+
+
+ul {list-style-type: none;
+marigin: 0;
+padding:0;
+overflow:hidden ;
+background-color: #d89e27;
+}
+
+li a {
+	text-decoration: none;
+	colour:black;
+	float: left;
+	font-size: 300%;
+	font-weight: 600;
+	border: 1px solid;
+	padding: 30px 60px;
+	background-color: #E83617;
+
+}
+
+li a:hover {
+	background-color: #25DA29;
+}
+body {
+background-image:url("../slike/enobarvnoozadje.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+
+
+
+}
+
+#uvod {
+	font-size: 300%;
+	border: 2px double;
+	background-color: green;
+	color: blue;
+	font-family: cursive;
+	text-align:center;
+}
+
+.naslova {
+	font-size:200% ;
+	font-family: fantasy;
+	color: mediumvioletred;
+
+}
+.paragraf
+{
+	font-size: 150%;
+}
+

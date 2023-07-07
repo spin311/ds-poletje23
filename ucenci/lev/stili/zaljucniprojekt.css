@@ -1,0 +1,88 @@
+ul {list-style-type: none;
+marigin: 0;
+padding:0;
+overflow:hidden ;
+background-color: #28FF00 ; /* vijoljcna */
+
+}
+
+
+
+
+li a {
+	text-decoration:none ;
+	colour:#F8FF00; /* rumena */
+	float: left;
+	font-size: 300%;
+	font-weight: 600;
+	border: 1px solid black ;
+	padding: 30px 60px;
+
+	
+
+
+}
+
+
+	li a:hover {
+	background-color: #F8FF00; /* rumena */
+	text-decoration-color:none ;
+	color: #1000FF ; /* modra*/ 
+
+
+	}
+
+
+
+
+
+body {
+	background-image: url(../slike/ozadjezaspletnostran.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	size: 40px 70px;
+
+
+
+}
+
+img {
+	margin-left:auto ;
+	margin-right: auto;
+	border: 2px solid green;
+
+
+
+
+
+}
+span
+{	background-color:black;
+	color: white;
+
+
+
+
+}
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition: width 2s;
+  opacity:1;
+}
+
+div:hover {
+  width: 300px;
+}
+
+#lol {
+	opacity:0;
+	transition:opacity 2s;
+
+}
+#lol:hover {
+opacity:1;
+
+
+}
