@@ -1,0 +1,79 @@
+#e {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #3CB043; 
+
+}
+
+li a #e  {
+
+	float: left;
+	color: red;
+	text-decoration: none;
+	border: none;
+	background-color: #3CB043;
+	font-size: 225%;
+	padding: 7px 15px;
+	font-family: Fantasy;
+	border-color: #3CB043;
+
+}
+
+li a:hover {
+
+	background-color:  #AEF359;
+	color: #3CB043;
+}
+
+#a {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #3CB043; /**/ 
+
+}
+
+li a#a {
+
+	float: left;
+	color: #AEF359; /**/
+	text-decoration: none;
+	border: none;
+	font-size: 300%;
+	padding: 7px 15px;
+	font-family: cursive;
+	border-color: #3CB043;
+	font-weight: bolder;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+body {
+
+	background-image: url("../slikice/bamboo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+}
+
+p {
+
+	color: #039e0d;
+	background-color: rgba(183, 224, 132, 0.8);
+	font-size: x-large;
+	text-align: justify;
+
+}
+
+li a{ 
+	color: #AEF359;
+	border: none;
+}

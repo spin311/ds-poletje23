@@ -1,0 +1,27 @@
+ul {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #d4ffcc; 
+
+}
+
+li a {
+
+	float: left;
+	color: #0f6300;
+	text-decoration: none;
+	border: 1px solid;
+	font-size: 225%;
+	padding: 7px 15px;
+	font-family: Fantasy;
+
+}
+
+li a:hover {
+
+	background-color:  #0f6300;
+	color: #d4ffcc;
+}

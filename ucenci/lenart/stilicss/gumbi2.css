@@ -1,0 +1,35 @@
+ul.projekti {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #3CB043; 
+
+}
+
+li.projekti a.projekti {
+
+	float: left;
+	color: #AEF359;
+	text-decoration: none;
+	border: none;
+	font-size: 225%;
+	padding: 7px 15px;
+	font-family: Fantasy;
+	margin-top: 20px;
+
+}
+
+li.projekti a.projekti:hover {
+
+	background-color:  #AEF359;
+	color: #3CB043;
+}
+
+.barvno {
+
+	background-color:  #AEF359;
+	color: #3CB043;
+
+}

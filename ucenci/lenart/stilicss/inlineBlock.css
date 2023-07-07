@@ -1,0 +1,48 @@
+h1 {
+
+	color: lightskyblue ;
+
+	border: 200em double ;
+
+	text-align: center ;
+
+	padding: 2px ;
+
+	font-size: 1px ;
+
+}
+
+p {
+
+	text-align: center ;
+
+	color: #039fff ;
+
+}
+
+img {
+
+	margin-left: auto ;
+	margin-right: auto ;
+	display: block ;
+
+}
+
+body {
+
+	background-color: #d2ecfc ;
+
+}
+/* table {
+
+	margin-left: auto ;
+
+	margin-right: auto ;
+
+}
+
+td {
+
+	padding: 0px 20px ;
+
+} */
