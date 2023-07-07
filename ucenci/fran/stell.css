@@ -1,0 +1,28 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-image:url(./slike/sky.jpg);
+}
+
+li a{
+	text-decoration:none;
+	display:block;
+	color:black;
+	float:left;
+	border:1px solid;
+	padding: 5px 10px;
+	background-color:powderblue;
+}
+li a:hover {
+	background-color:darkblue;
+}
+
+body{
+	background-image: url(./slike/sky.jpg);
+
+
+
+
+}

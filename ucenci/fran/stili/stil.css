@@ -1,0 +1,10 @@
+h1{
+	text-align:center;
+	}
+
+span{display: inline-block;
+	border-width: 50px;
+	border:solid;
+	border-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkf4rN5VjwTvVshtH1INacjeQaU4JTvgUNg&usqp=CAU") 50 round;
+	padding:20px 10px;
+}
